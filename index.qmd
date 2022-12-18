@@ -1,0 +1,69 @@
+---
+title: "Mini-Lesson: Ecosystem Services"
+author: Isabella Richmond
+date: December 19, 2022
+format: 
+  revealjs:
+    theme: simple
+    incremental: true
+    slide-number: c
+    show-slide-number: all
+---
+
+## Learning Outcomes
+
+-   *Define* what an ecosystem service is
+-   *Outline* the types of ecosystem services
+
+## Nature's Benefits to People {background-image="imgs/urbantree.jpg"}
+
+::: aside
+<w style = "color: white"> "Le Plateau Montreal - Tree" by ra1000 is licensed under CC BY-NC-ND 2.0 </w>
+:::
+
+## Activity - Think/Pair/Share
+
+![](imgs/lightbulb.jpg){fig-align="center"}
+
+::: aside
+"Creative Problem Solving at Work - Illustration" by Digits.co.uk Images is licensed under CC BY 2.0.
+:::
+
+## Activity - Think/Pair/Share
+
+::: nonincremental
+-   With the people closest to you:
+    -   list every benefit that you receive from urban nature for *2 mins*
+
+    -   try to group these benefits into categories for *2 mins*
+:::
+
+## Types of Ecosystem Services
+
+![](imgs/ES.png){fig-align="center" width="60%"}
+
+::: aside
+[WWF Living Planet Report 2016](https://c402277.ssl.cf1.rackcdn.com/publications/964/files/original/lpr_living_planet_report_2016.pdf?1477582118&_ga=1.148678772.2122160181.1464121326)
+:::
+
+## Takeaways
+
+-   Ecosystem services ("ES") are the benefits that people derive from nature
+
+-   There are 4 groups of ES: cultural, provisioning, regulating, and supporting
+
+**Next Lesson**
+
+-   Why are they called "services" and what are the pros/cons (2 min intro [TikTok](https://www.tiktok.com/@iguanalow/video/7159068103131794731?_t=8YHwUUN0u86&_r=1))
+
+-   How are ES distributed across space and time? Who has access and who does not
+
+## Futher Resources
+
+::: nonincremental
+-   6 min [podcast]() on urban nature
+-   TikToks ([1](https://www.tiktok.com/@drkyliesoanes/video/7069574094596984066?_r=1&_t=8YHwDXX8iQQ&is_from_webapp=v1&item_id=7069574094596984066), [2](https://www.tiktok.com/@nerdyaboutneature/video/7136385526764014853?_r=1&_t=8YHwOq6qZXx&is_from_webapp=v1&item_id=7136385526764014853), [3](https://www.tiktok.com/@homegrownnationalpark/video/7075071542878588203?_r=1&_t=8YHwIAxPI2Q&is_from_webapp=v1&item_id=7075071542878588203)) on ecosystem services
+-   [Millennium Ecosystem Assessment Report](https://www.millenniumassessment.org/documents/document.356.aspx.pdf)
+    -   This is the document that popularized the term ecosystem services
+-   Go outside! Pay attention to the nature around you - how is it benefiting (or not benefiting) you? What about others?
+:::
