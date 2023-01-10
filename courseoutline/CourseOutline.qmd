@@ -1,0 +1,219 @@
+---
+title: "BIOL 300 - Ecology of Urban Spaces (3 credits)"
+format:
+  html:
+    embed-resources: true
+    toc: true
+    toc-depth: 5
+    toc-location: left
+    linkcolor: '#90719f'
+    theme: 
+      - default
+      - custom.scss
+editor: visual
+---
+
+------------------------------------------------------------------------
+
+### Fall 2023 Dates
+
+-   Lectures: Mondays 10:00-11:30 & Wednesdays 8:30-10:00
+
+-   Office Hours: *tentatively* Fridays 12:00-15:00 (we will discuss in the first class)
+
+-   Check the [Schedule] for more important dates
+
+### Locations
+
+-   Class Space: Room TBD
+
+-   Course Content Space: [\[insert Moodle link here\]](www.moodle.com)
+
+### Instructors
+
++-----------------------------------------------------------------------------------------------------+------------------------+
+| **Lecturer**                                                                                        | **Teaching Assistant** |
+|                                                                                                     |                        |
+| Isabella C. Richmond (she/her)                                                                      | TBD                    |
+|                                                                                                     |                        |
+| PhD Candidate, Department of Biology                                                                |                        |
+|                                                                                                     |                        |
+| Office: Loyola Campus - SP 401.01                                                                   |                        |
+|                                                                                                     |                        |
+| [isabella.richmond\@mail.concordia.ca](isabella.richmond@mail.concordia.ca){style="color: #90719f"} |                        |
++-----------------------------------------------------------------------------------------------------+------------------------+
+
+------------------------------------------------------------------------
+
+### Student Well-Being
+
+Your mental and physical well-being is of the utmost importance. If you are struggling, please feel free to come see me during my office hours or make an appointment via email. Below is a list of resources on campus that may be helpful, I encourage you to use them.
+
+1\. Biology's Undergraduate Advisor: [Leonie Morris](leonie.morris@concordia.ca)\
+2. [Counselling and Psychological Services](www.concordia.ca/students/counselling-life-skills3)\
+3. [Concordia Library Citation and Style Guides](www.library.concordia.ca/help/howto/citations)\
+4. [Student Success Centre](www.concordia.ca/students/success)\
+5. [Health Services](www.concordia.ca/students/health)\
+6. [Financial Aid and Awards](www.concordia.ca/offices/faao)\
+7. [HOJO (Off Campus Housing and Job Bank)](www.csu.qc.ca/hojo)\
+8. [Academic Integrity](www.concordia.ca/students/academic-integrity)\
+9. [Access Centre for Students with Disabilities](www.concordia.ca/offices/acsd)\
+10. [CSU Advocacy Centre](www.csu.qc.ca/advocacy)\
+11. [Dean of Students Office](www.concordia.ca/offices/dean-students)\
+12. [International Students Office](www.concordia.ca/students/international)\
+13. [Student Hub](www.concordia.ca/students)
+
+------------------------------------------------------------------------
+
+### Course Description
+
+This course will serve as an introduction to urban ecology and urban studies. We will learn and discuss some of the fundamental theories that underpin how we discuss urban ecology in 2022. We will then discuss the current state of our cities - how they are managed with respect to the natural environment and why. Woven throughout, we will use critical thinking skills to assess how the power structures present in our society influence and inform the ecology of our cities, as well as how we talk about the ecology of our cities. Finally, we will synthesize the theory, examples, and issues that we have learned and attempt to imagine a new ecological feature or management technique in a city of our choice.
+
+### Learning Outcomes
+
+1.  Outline 3 fundamental theories underpinning urban ecology
+
+2.  Describe current management techniques of ecology and natural elements in our cities
+
+3.  Evaluate how power structures in our society inform the ecology of our cities
+
+4.  Imagine how the ecology of our cities could/should change and propose an approach
+
+### Course Materials
+
+All course materials can be found on the course website (check [Locations] for the Moodle link). When external media is referenced, such as podcasts and TikToks, the links will be posted on the course website.
+
+NOTE: for many of our in-class discussions, we will be using PollEverywhere and/or Kahoot. These technologies do not require you to make an account, but do require access to a laptop or phone. If you do not have access to these items, please send me an email and we will get you set up with what you need to participate.
+
+### Question Forum
+
+There is an anonymous question forum on our course website. This is a space for anyone in the class to ask questions and receive answers from me, your TA, or your peers. If you want something clarified next class, have a question about a deadline, have a critique of how a concept was presented in class, please consider posting it there.
+
+------------------------------------------------------------------------
+
+### Assessments
+
+**NOTE:** Deadlines are not currently stated in this framework. We will discuss deadlines together on the first day of class. Please bring the syllabuses from your other courses, so that you know which dates work best for you.
+
+#### 10% - Class Takeaways 
+
+-   Following each class, you will be expected to post your main takeaway and/or question on Moodle (3 absences without discussion are allowed before 0's are recorded)
+
+#### 20% - Your Favourite Theory Paper
+
+-   You will select your favourite (or least favourite) theory that is fundamental to urban ecology from class. You will outline the theory, give 2 examples of how it could be used to understand a city, and describe why you think it is important/interesting/not interesting.
+
+-   There will be a soft deadline for this paper on DATE. If you submit a version on this deadline, you will not be graded but you will receive feedback from the TA that you can incorporate for your final version. If you miss this deadline, you will not receive feedback before your final version.
+
+#### 20% - Management Techniques Debate
+
+-   You will join one of four groups in the class, each group selecting a current green space management technique that is prevalent in Canadian cities
+
+-   Each group will craft arguments regarding:
+
+    -   History
+
+    -   Purpose
+
+    -   Efficacy
+
+    -   Equity
+
+    -   Shortcomings
+
+-   The arguments will be submitted *before* the debate to be discussed with the instructor and TA.
+
+-   Following reading week, each group will debate why their management technique is the most important, and should receive the most money in the next municipal budget.
+
+#### 50% - Our Future Cities 
+
+Don't panic! It is not all 50% in one go - we will work up to this.
+
+-   You will form a group with 3-4 other students. Each group will first choose a case study of a city with an urban ecology (or related) plan that excites them. They will then outline the main aspects of the plan, and why they think it is exciting/relevant **(10%)**
+
+-   After selecting a case study, students will outline how they think this plan could be vulnerable to systemic power issues present in Quebecois/Canadian society. This can be done in whatever format the students choose - i.e., podcast discussion, video, written essay, TikTok, tweet thread **(20%)**
+
+-   Finally, the group will make a plan of how they would best implement this to improve the urban landscape of Montreal. They will format this plan as a presentation that they would deliver to City of Montreal employees and present it to the class for discussion **(30%)**
+
+------------------------------------------------------------------------
+
+### Schedule
+
++-------------------+----------------------------------------+---------------+-----------------------------------------------------------------------------------+
+| Date              | Topic                                  | Readings      | Assessments                                                                       |
++===================+========================================+===============+===================================================================================+
+| W1: Aug 21/23     | a\) Classroom Code of Conduct          |               | 1.  Class Takeaway x 2                                                            |
+|                   |                                        |               |                                                                                   |
+|                   | b\) Academic Integrity                 |               |                                                                                   |
++-------------------+----------------------------------------+---------------+-----------------------------------------------------------------------------------+
+| W2: Aug 28/30     | a\) Elements of our cities             |               | 1.  Class Takeaway x 2                                                            |
+|                   |                                        |               |                                                                                   |
+|                   | b\) Ecology in/of/for cities           |               |                                                                                   |
++-------------------+----------------------------------------+---------------+-----------------------------------------------------------------------------------+
+| W3: Sep 4/6       | a\) Ecosystem services I               |               | 1.  Class Takeaway x 2                                                            |
+|                   |                                        |               |                                                                                   |
+|                   | b\) Ecosystem services II              |               |                                                                                   |
++-------------------+----------------------------------------+---------------+-----------------------------------------------------------------------------------+
+| W4: Sep 11/13     | a\) Nature's Contributions to People   |               | 1.  Class Takeaway x 2                                                            |
+|                   |                                        |               |                                                                                   |
+|                   | b\) Essay Writing Tips                 |               |                                                                                   |
++-------------------+----------------------------------------+---------------+-----------------------------------------------------------------------------------+
+| W5: Sep 18/20     | a\) Urban Planning                     |               | 1.  Class Takeaway x 2                                                            |
+|                   |                                        |               |                                                                                   |
+|                   | b\) History of Green Spaces            |               |                                                                                   |
++-------------------+----------------------------------------+---------------+-----------------------------------------------------------------------------------+
+| W6: Sep 25/28     | a\) Managing Green Space               |               | 1.  Class Takeaway x 2                                                            |
+|                   |                                        |               |                                                                                   |
+|                   | b\) Managing Green Infrastructure      |               |                                                                                   |
++-------------------+----------------------------------------+---------------+-----------------------------------------------------------------------------------+
+| W7: Oct 2/4       | a\) Technology & Management            |               | 1.  Class Takeaway x 2                                                            |
+|                   |                                        |               |                                                                                   |
+|                   | b\) Municipal Management               |               |                                                                                   |
++-------------------+----------------------------------------+---------------+-----------------------------------------------------------------------------------+
+| W8: Oct 9/11      | STUDY BREAK                            |               | 1.  Class Takeaway (picture of urban ecology wherever you're spending your break) |
++-------------------+----------------------------------------+---------------+-----------------------------------------------------------------------------------+
+| W9: Oct 16/18     | a\) Management Techniques Debate 1     |               | 1.  Class Takeaway x 2                                                            |
+|                   |                                        |               | 2.  Management Techniques Debate                                                  |
+|                   | b\) Management Techniques Debate 2     |               |                                                                                   |
++-------------------+----------------------------------------+---------------+-----------------------------------------------------------------------------------+
+| W10: Oct 23/25    | a\) Racism & Urban Ecology I           |               | 1.  Class Takeaway x 2                                                            |
+|                   |                                        |               |                                                                                   |
+|                   | b\) Racism & Urban Ecology II          |               |                                                                                   |
++-------------------+----------------------------------------+---------------+-----------------------------------------------------------------------------------+
+| W11: Oct 30/Nov 1 | a\) Classism & Urban Ecology           |               | 1.  Class Takeaway x 2                                                            |
+|                   |                                        |               |                                                                                   |
+|                   | b\) Intersectionality & Urban Ecology  |               |                                                                                   |
++-------------------+----------------------------------------+---------------+-----------------------------------------------------------------------------------+
+| W12: Nov 6/8      | a\) Urban Political Ecology            |               | 1.  Class Takeaway x 2                                                            |
+|                   |                                        |               |                                                                                   |
+|                   | b\) Environmental Justice              |               |                                                                                   |
++-------------------+----------------------------------------+---------------+-----------------------------------------------------------------------------------+
+| W13: Nov 13/15    | a\) Case Study I                       |               | 1.  Class Takeaway x 2                                                            |
+|                   |                                        |               |                                                                                   |
+|                   | b\) Case Study II                      |               |                                                                                   |
++-------------------+----------------------------------------+---------------+-----------------------------------------------------------------------------------+
+| W14: Nov 20/22    | a\) Course Content Synthesis           |               | 1.  Class Takeaway x 2                                                            |
+|                   |                                        |               |                                                                                   |
+|                   | b\) Future Cities Presentations        |               |                                                                                   |
++-------------------+----------------------------------------+---------------+-----------------------------------------------------------------------------------+
+| W15: Nov 27/29    | a\) Future Cities Presentations        |               | 1.  Class Takeaway x 2                                                            |
+|                   |                                        |               | 2.  Our Future Cities Final Submission                                            |
+|                   | b\) Wrap-Up                            |               |                                                                                   |
++-------------------+----------------------------------------+---------------+-----------------------------------------------------------------------------------+
+
+------------------------------------------------------------------------
+
+### Academic Integrity
+
+We will discuss plagiarism + academic integrity and how to use citations in this class in the first week. Concordia's definition is here:
+
+**Plagiarism:**\
+The most common offense under the Academic Code of Conduct is plagiarism, which the Code defines as \"the presentation of the work of another person as one\'s\
+own or without proper acknowledgement.\" This includes material copied word for word from books, journals, Internet sites, professor\'s course notes, etc. It refers to material that is paraphrased but closely resembles the original source. It also includes for example the work of a fellow student, an answer on a quiz, data for a lab report, a paper or assignment completed by another student. It might be a paper\
+purchased from any source. Plagiarism does not refer to words alone --it can refer to copying images, graphs, tables and ideas. \"Presentation\" is not limited to\
+written work. It includes oral presentations, computer assignment and artistic works. Finally, if you translate the work of another person into any other language and do\
+not cite the source, this is also plagiarism.
+
+**In Simple Words:**\
+Do not copy, paraphrase or translate anything from anywhere without saying where you obtained it! (Source: The Academic Integrity Website:\
+[concordia.ca/students/academic-integrity](www.concordia.ca/students/academic-integrity))
